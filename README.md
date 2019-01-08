@@ -1,2 +1,3 @@
-# LoveTranslation Java
-create a web to help understand hard words when translating something.
+# LoveTranslation 
+Create a web to help understand hard words when translating something.
+Use Java language
