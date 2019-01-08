@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="term-web:war">
+    <output-path>$PROJECT_DIR$/service-term/term-web/target</output-path>
+    <root id="archive" name="term-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="term-web:war exploded" />
+    </root>
+  </artifact>
+</component>
